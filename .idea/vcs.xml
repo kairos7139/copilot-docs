@@ -2,5 +2,19 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$APPLICATION_CONFIG_DIR$/settingsSync" vcs="Git" />
+    <mapping directory="$USER_HOME$/AppData/Roaming/JetBrains/PyCharm2024.1/light-edit" vcs="Git" />
+    <mapping directory="$USER_HOME$/Desktop/GitHub/desktop-tutorial" vcs="Git" />
+    <mapping directory="$USER_HOME$/Desktop/nEW/OneDrive-2024-06-11 (1)/GitHub/desktop-tutorial" vcs="Git" />
+    <mapping directory="$USER_HOME$/Desktop/nEW/OneDrive-2024-06-11 (1)/Important Review/GitHub/Jupyter-Notebook-for-Data-Science" vcs="Git" />
+    <mapping directory="$USER_HOME$/Desktop/nEW/OneDrive-2024-06-11 (1)/Important Review/GitHub/desktop-tutorial" vcs="Git" />
+    <mapping directory="$USER_HOME$/Desktop/nEW/OneDrive-2024-06-11 (1)/Important Review/GitHub/docker-stacks" vcs="Git" />
+    <mapping directory="$USER_HOME$/Desktop/nEW/OneDrive-2024-06-11 (1)/Important Review/GitHub/primary_finalized" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow-3rd-Edition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../dlbook_notation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kairos10500" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../pyright" vcs="Git" />
+    <mapping directory="$USER_HOME$/Elry" vcs="Git" />
   </component>
 </project>
